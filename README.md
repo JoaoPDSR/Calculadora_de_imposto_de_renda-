@@ -22,10 +22,3 @@ Sistema financeiro com interface moderna inspirado em bancos digitais.
 ```bash
 pip install -r requirements.txt
 python app.py
-
----
-
-=======
-# deshibord-de-calculo-de-imposto-de-renda-
-Um programa que te auxilia ao calcular o seu imposto de renda 
->>>>>>> 1cde941982f69b5945d95e60e18c0f780a21296d
